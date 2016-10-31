@@ -1,6 +1,6 @@
 ### How to use
 
-Create CellFeed instance from CellFeedInsert providing WorkSheet you want insert to.
+Create instance from CellFeedInsert providing WorkSheet you want insert to.
 
 ```php
 $spreadsheet = 'MyTable.xlsx';
